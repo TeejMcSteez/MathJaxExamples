@@ -14,7 +14,9 @@ The logical X-OR between \( A \) and \( B \) is represented by the term $A \oplu
 Other symbols:
 
 $A \Rightarrow B$
+
 $\sum_{i=1}^{n} i = \frac{n(n+1)}{2}$
+
 $\lim_{ x \to 0} \frac{\sin x}{x} = 1$
 
 Use a single $ before and after the LaTeX to comment inline
